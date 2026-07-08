@@ -30,5 +30,3 @@ A fully external ESP and aimbot for **MECCHA CHAMELEON** (Steam / UE5.6). No DLL
 </div>
 
 ---
-
-This project is provided for **educational and research purposes only**, intended for private, consensual matches with friends. Using cheats or unauthorized third-party tools in online games may violate the game's Terms of Service and can result in account suspension or permanent ban. The authors assume no liability for any damages, bans, or other consequences resulting from the use or misuse of this software. Use at your own risk, and only with people who know it's running.
