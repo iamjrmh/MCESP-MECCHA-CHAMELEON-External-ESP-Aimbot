@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/python-3.11%2B-3776AB)
 ![Version](https://img.shields.io/badge/version-4.1.0-ff2e97)
 
-A fully external ESP and aimbot for **MECCHA CHAMELEON** (Steam / UE5.6). No DLL injection into the game, no UE4SS dependency - it pattern-scans the running game process and reads (and, for the aimbot, writes a small amount of) memory through `pymem`.
+A fully external ESP and aimbot for **MECCHA CHAMELEON**.
 
 </div>
 
