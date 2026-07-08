@@ -21,8 +21,8 @@ A fully external ESP and aimbot for **MECCHA CHAMELEON** (Steam / UE5.6). No DLL
 <div align="center">
 <table>
 <tr>
-<td align="center" width="25%"><img src="Images/ESP.png" width="220"><br><sub><b>ESP</b></sub></td>
-<td align="center" width="25%"><img src="Images/Character.png" width="220"><br><sub><b>Character</b></sub></td>
+<td align="center" width="25%"><img src="Images/ESP.png" width="350"><br><sub><b>ESP</b></sub></td>
+<td align="center" width="25%"><img src="Images/Character.png" width="350"><br><sub><b>Character</b></sub></td>
 </tr>
 </table>
 </div>
@@ -34,7 +34,7 @@ A fully external ESP and aimbot for **MECCHA CHAMELEON** (Steam / UE5.6). No DLL
 <div align="center">
 <table>
 <tr>
-<td align="center" width="25%"><img src="Images/Aimbot.png" width="220"><br><sub><b>Aimbot</b></sub></td>
+<td align="center" width="25%"><img src="Images/Aimbot.png" width="350"><br><sub><b>Aimbot</b></sub></td>
 </tr>
 </table>
 </div>
@@ -46,7 +46,7 @@ A fully external ESP and aimbot for **MECCHA CHAMELEON** (Steam / UE5.6). No DLL
 <div align="center">
 <table>
 <tr>
-<td align="center" width="25%"><img src="Images/Movement.png" width="220"><br><sub><b>Movement</b></sub></td>
+<td align="center" width="25%"><img src="Images/Movement.png" width="350"><br><sub><b>Movement</b></sub></td>
 </tr>
 </table>
 </div>
@@ -58,19 +58,19 @@ A fully external ESP and aimbot for **MECCHA CHAMELEON** (Steam / UE5.6). No DLL
 <div align="center">
 <table>
 <tr>
-<td align="center" width="25%"><img src="Images/PlayersTP.png" width="220"><br><sub><b>Teleport</b></sub></td>
-<td align="center" width="25%"><img src="Images/PlayersS.png" width="220"><br><sub><b>Survivors (Hiders)</b></sub></td>
-<td align="center" width="25%"><img src="Images/PlayersH.png" width="220"><br><sub><b>Hunters (Seekers)</b></sub></td>
-<td align="center" width="25%"><img src="Images/PlayersN.png" width="220"><br><sub><b>Names</b></sub></td>
+<td align="center" width="25%"><img src="Images/PlayersTP.png" width="350"><br><sub><b>Teleport</b></sub></td>
+<td align="center" width="25%"><img src="Images/PlayersS.png" width="350"><br><sub><b>Survivors (Hiders)</b></sub></td>
+<td align="center" width="25%"><img src="Images/PlayersH.png" width="350"><br><sub><b>Hunters (Seekers)</b></sub></td>
+<td align="center" width="25%"><img src="Images/PlayersN.png" width="350"><br><sub><b>Names</b></sub></td>
 </tr>
 </table>
 </div>
 <div align="center">
 <table>
 <tr>
-<td align="center" width="25%"><img src="Images/AutoCamoPaint.png" width="220"><br><sub><b>Paint</b></sub></td>
-<td align="center" width="25%"><img src="Images/AutoCamoMaterial.png" width="220"><br><sub><b>Material</b></sub></td>
-<td align="center" width="25%"><img src="Images/AutoCamoKeybinds.png" width="220"><br><sub><b>Keybinds</b></sub></td>
+<td align="center" width="25%"><img src="Images/AutoCamoPaint.png" width="350"><br><sub><b>Paint</b></sub></td>
+<td align="center" width="25%"><img src="Images/AutoCamoMaterial.png" width="350"><br><sub><b>Material</b></sub></td>
+<td align="center" width="25%"><img src="Images/AutoCamoKeybinds.png" width="350"><br><sub><b>Keybinds</b></sub></td>
 </tr>
 </table>
 </div>
@@ -82,7 +82,7 @@ A fully external ESP and aimbot for **MECCHA CHAMELEON** (Steam / UE5.6). No DLL
 <div align="center">
 <table>
 <tr>
-<td align="center" width="25%"><img src="Images/Settings.png" width="220"><br><sub><b>Teleport</b></sub></td>
+<td align="center" width="25%"><img src="Images/Settings.png" width="350"><br><sub><b>Teleport</b></sub></td>
 </tr>
 </table>
 </div>
